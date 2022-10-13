@@ -3,9 +3,14 @@ html {
     font-family: 'Press Start 2P', cursive;
     background-color: #e7c89d;
   }
+header {
+    font-size: 20px;
+    font-family: 'Press Start 2P', cursive;
+    margin: 5px auto;
+}
 body {
     width: 600px;
-    margin: 20px auto 0 auto;
+    margin: 0 auto 0 auto;
     background-color: #e4b676;
     padding: 0 20px 20px 20px;
     border: 5px solid rgb(187, 80, 8);
