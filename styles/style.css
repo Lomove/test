@@ -3,11 +3,13 @@ html {
     font-family: 'Press Start 2P', cursive;
     background-color: #e7c89d;
   }
+
 header {
     font-size: 20px;
     font-family: 'Press Start 2P', cursive;
     margin: 5px auto;
 }
+
 body {
     width: 600px;
     margin: 0 auto 0 auto;
@@ -15,29 +17,37 @@ body {
     padding: 0 20px 20px 20px;
     border: 5px solid rgb(187, 80, 8);
   }
+
 #snoski {
     color: rgb(0, 174, 255);
   }
+
 h1 {
     color: #00539F;
     text-shadow: 3px 3px 1px black;
 }
+
 img {
     display: block;
     margin: 5px auto;
 }
+
 #motiv1 {
     color:rgb(181, 0, 226)
 }
+
 #motiv2 {
     color:rgb(255, 0, 250)
 }
+
 #motiv3 {
     color:rgb(255, 0, 170)
 }
+
 #change_user {
     margin: 0 auto;
 }
+
 #futerText {
     font-size: 10px;
 }
