@@ -51,3 +51,16 @@
 #grid_ul_5 {
   grid-column: 3 / 4;
 }
+
+/* FLOAT */
+#floatt img {
+  float: right;
+  width: 85px;
+  height: 112px;
+}
+
+/* Мульти-колоночный режим */
+.Multi-column {
+  margin-top: 10px;
+  column-width: 150px;
+}
